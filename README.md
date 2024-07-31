@@ -20,6 +20,27 @@ _Coming Soon_
 [![GoodLinks for macOS](https://img.shields.io/badge/Download%20on%20the%20Mac%20App%20Store-0078D6?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/goodlinks/id1474335294?mt=12)
 [![GoodLinks for iOS](https://img.shields.io/badge/Download%20on%20the%20App%20Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/goodlinks/id1474335294)
 
+## Previews
+
+<p align="center">
+  <img src="/assets/preview1.png" alt="Launching Extension" width="600"/>
+  <br>
+  <em>Launching Extension</em>
+</p>
+
+<p align="center">
+  <img src="/assets/preview2.png" alt="Add from Clipboard" width="600"/>
+  <br>
+  <em>Add from Clipboard</em>
+</p>
+
+<p align="center">
+  <img src="/assets/preview3.png" alt="Manage Links (in development)" width="600"/>
+  <br>
+  <em>Manage Links (in development)</em>
+</p>
+
+
 ## Manual Use Instructions
 
 ### 1. Fork and Clone the Repository
