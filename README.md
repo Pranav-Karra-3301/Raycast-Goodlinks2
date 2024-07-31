@@ -1,7 +1,7 @@
 # Goodlinks 2 Extension for Raycast
 
 <p align="center">
-  <img src="path/to/goodlinks.png" alt="Goodlinks Icon" width="200"/>
+  <img src="assets/goodlinks.png" alt="Goodlinks Icon" width="200"/>
 </p>
 
 <p align="center">
