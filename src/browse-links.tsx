@@ -74,10 +74,7 @@ export default function Command() {
   };
 
   const renderListView = () => (
-    <List
-      isLoading={isLoading}
-      onSelectionChange={(id) => handleSelect(id)}
-    >
+    <List isLoading={isLoading} onSelectionChange={(id) => handleSelect(id)}>
       {links.map((link) => (
         <List.Item
           key={link.id}

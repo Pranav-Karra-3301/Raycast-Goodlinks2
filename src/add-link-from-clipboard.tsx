@@ -18,7 +18,7 @@ export default function Command() {
     try {
       const script = `
         tell application "GoodLinks"
-          set newLink to make new link with properties {url:"${url}", title:"${title}", tag names:${tags.split(",").map(tag => `"${tag.trim()}"`)}, starred:${starred}}
+          set newLink to make new link with properties {url:"${url}", title:"${title}", tag names:${tags.split(",").map((tag) => `"${tag.trim()}"`)}, starred:${starred}}
         end tell
       `;
       await runAppleScript(script);
