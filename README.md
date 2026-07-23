@@ -84,3 +84,7 @@ ray deploy
 - **Deployment**: Use `ray deploy` cautiously. This command will deploy the extension to your Raycast environment, making it available for use. Double-check your configuration and code before deploying to prevent issues.
 
 Feel free to contribute and enhance this extension! If you encounter any issues, please open an issue in this repository. Contributions are welcome, whether they are bug fixes, feature additions, or documentation improvements.
+
+## Credits
+
+Built by [Pranav Karra](https://pranavkarra.me).
